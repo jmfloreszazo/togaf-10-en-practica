@@ -20,7 +20,8 @@ El objetivo de este libro es:
 - Proporcionar ejemplos claros y reutilizables
 - Introducir un enfoque moderno de arquitectura viva y asistida
 
-Este **no es un libro de certificación**.  
+Este **no es un libro de certificación**. 
+
 Es un libro para profesionales que diseñan, toman decisiones y entregan soluciones reales.
 
 ---
@@ -75,6 +76,7 @@ Siempre que:
 ## Autor
 
 **José María Flores Zazo**  
+
 Arquitecto de software y soluciones con más de 28 años de experiencia en diseño, modernización y entrega de sistemas complejos.
 
 - Blog: https://jmfloreszazo.com  
@@ -95,4 +97,5 @@ La versión en inglés se publicará progresivamente.
 ## Disclaimer
 
 TOGAF® es una marca registrada de The Open Group.  
+
 Este libro es un trabajo independiente y no está afiliado ni patrocinado por The Open Group.
